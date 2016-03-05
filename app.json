@@ -1,0 +1,13 @@
+{
+  "name": "thalia-doroteo",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
